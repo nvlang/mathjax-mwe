@@ -1,0 +1,19 @@
+{
+    "name": "mathjax-mwe",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "packageManager": "pnpm@10.26.0",
+    "dependencies": {
+        "@mathjax/mathjax-fira-font": "^4.1.0",
+        "@mathjax/mathjax-newcm-font": "^4.1.0",
+        "@mathjax/src": "^4.1.0"
+    }
+}
